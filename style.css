@@ -12,6 +12,7 @@ body{
  background-color: #000000;
  height: 10000px;
  width: 100%;
+ overflow-x: hidden;
 }
 .sec1{
     position: relative;
